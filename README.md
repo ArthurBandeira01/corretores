@@ -65,7 +65,7 @@ As tecnologias usadas nesse projeto foram:
 
 ### Pré-requisitos
 
-``` Git, porém não é obrigatório, caso não queira fazer a instação via git, faça o download do repositório ```
+``` Git, porém não é obrigatório, caso não queira fazer a instação via git, faça o download do repositório. ```
 
 <!-- CONTRIBUTING -->
 ## Contribuindo
