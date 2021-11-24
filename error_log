@@ -1,0 +1,148 @@
+[17-Nov-2021 18:10:07 America/Fortaleza] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/alph9951/public_html/config.php on line 12
+[17-Nov-2021 18:10:07 America/Fortaleza] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/alph9951/public_html/config.php on line 12
+[17-Nov-2021 18:10:07 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/alph9951/public_html/index.php on line 5
+[17-Nov-2021 18:10:07 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/alph9951/public_html/index.php on line 6
+[17-Nov-2021 18:10:07 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/alph9951/public_html/index.php on line 9
+[17-Nov-2021 18:10:07 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/alph9951/public_html/index.php on line 10
+[17-Nov-2021 18:10:07 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/alph9951/public_html/index.php on line 13
+[17-Nov-2021 18:10:07 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/alph9951/public_html/index.php on line 16
+[17-Nov-2021 18:10:07 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/alph9951/public_html/index.php on line 19
+[17-Nov-2021 18:10:07 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/alph9951/public_html/index.php on line 22
+[17-Nov-2021 18:10:07 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/alph9951/public_html/index.php on line 38
+[17-Nov-2021 18:10:07 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/alph9951/public_html/index.php on line 162
+[17-Nov-2021 18:10:07 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/alph9951/public_html/index.php on line 236
+[17-Nov-2021 18:10:07 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/alph9951/public_html/index.php on line 270
+[17-Nov-2021 18:10:32 America/Fortaleza] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/alph9951/public_html/config.php on line 12
+[17-Nov-2021 18:10:32 America/Fortaleza] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/alph9951/public_html/config.php on line 12
+[17-Nov-2021 18:10:32 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/alph9951/public_html/ranking.php on line 5
+[17-Nov-2021 18:10:32 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/alph9951/public_html/ranking.php on line 27
+[17-Nov-2021 18:10:35 America/Fortaleza] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/alph9951/public_html/config.php on line 12
+[17-Nov-2021 18:10:35 America/Fortaleza] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/alph9951/public_html/config.php on line 12
+[17-Nov-2021 18:10:35 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/alph9951/public_html/index.php on line 5
+[17-Nov-2021 18:10:35 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/alph9951/public_html/index.php on line 6
+[17-Nov-2021 18:10:35 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/alph9951/public_html/index.php on line 9
+[17-Nov-2021 18:10:35 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/alph9951/public_html/index.php on line 10
+[17-Nov-2021 18:10:35 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/alph9951/public_html/index.php on line 13
+[17-Nov-2021 18:10:35 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/alph9951/public_html/index.php on line 16
+[17-Nov-2021 18:10:35 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/alph9951/public_html/index.php on line 19
+[17-Nov-2021 18:10:35 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/alph9951/public_html/index.php on line 22
+[17-Nov-2021 18:10:35 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/alph9951/public_html/index.php on line 38
+[17-Nov-2021 18:10:35 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/alph9951/public_html/index.php on line 162
+[17-Nov-2021 18:10:35 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/alph9951/public_html/index.php on line 236
+[17-Nov-2021 18:10:35 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/alph9951/public_html/index.php on line 270
+[17-Nov-2021 18:10:38 America/Fortaleza] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/alph9951/public_html/config.php on line 12
+[17-Nov-2021 18:10:38 America/Fortaleza] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/alph9951/public_html/config.php on line 12
+[17-Nov-2021 18:10:38 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/alph9951/public_html/index.php on line 5
+[17-Nov-2021 18:10:38 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/alph9951/public_html/index.php on line 6
+[17-Nov-2021 18:10:38 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/alph9951/public_html/index.php on line 9
+[17-Nov-2021 18:10:38 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/alph9951/public_html/index.php on line 10
+[17-Nov-2021 18:10:38 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/alph9951/public_html/index.php on line 13
+[17-Nov-2021 18:10:38 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/alph9951/public_html/index.php on line 16
+[17-Nov-2021 18:10:38 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/alph9951/public_html/index.php on line 19
+[17-Nov-2021 18:10:38 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/alph9951/public_html/index.php on line 22
+[17-Nov-2021 18:10:38 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/alph9951/public_html/index.php on line 38
+[17-Nov-2021 18:10:38 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/alph9951/public_html/index.php on line 162
+[17-Nov-2021 18:10:38 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/alph9951/public_html/index.php on line 236
+[17-Nov-2021 18:10:38 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/alph9951/public_html/index.php on line 270
+[17-Nov-2021 18:10:53 America/Fortaleza] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/alph9951/public_html/config.php on line 12
+[17-Nov-2021 18:10:53 America/Fortaleza] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/alph9951/public_html/config.php on line 12
+[17-Nov-2021 18:11:00 America/Fortaleza] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/alph9951/public_html/config.php on line 12
+[17-Nov-2021 18:11:00 America/Fortaleza] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/alph9951/public_html/config.php on line 12
+[17-Nov-2021 18:11:00 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/alph9951/public_html/index.php on line 5
+[17-Nov-2021 18:11:00 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/alph9951/public_html/index.php on line 6
+[17-Nov-2021 18:11:00 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/alph9951/public_html/index.php on line 9
+[17-Nov-2021 18:11:00 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/alph9951/public_html/index.php on line 10
+[17-Nov-2021 18:11:00 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/alph9951/public_html/index.php on line 13
+[17-Nov-2021 18:11:00 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/alph9951/public_html/index.php on line 16
+[17-Nov-2021 18:11:00 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/alph9951/public_html/index.php on line 19
+[17-Nov-2021 18:11:00 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/alph9951/public_html/index.php on line 22
+[17-Nov-2021 18:11:00 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/alph9951/public_html/index.php on line 38
+[17-Nov-2021 18:11:00 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/alph9951/public_html/index.php on line 162
+[17-Nov-2021 18:11:00 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/alph9951/public_html/index.php on line 236
+[17-Nov-2021 18:11:00 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/alph9951/public_html/index.php on line 270
+[17-Nov-2021 18:12:17 America/Fortaleza] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/alph9951/public_html/config.php on line 12
+[17-Nov-2021 18:12:17 America/Fortaleza] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/alph9951/public_html/config.php on line 12
+[17-Nov-2021 18:12:17 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/alph9951/public_html/index.php on line 5
+[17-Nov-2021 18:12:17 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/alph9951/public_html/index.php on line 6
+[17-Nov-2021 18:12:17 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/alph9951/public_html/index.php on line 9
+[17-Nov-2021 18:12:17 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/alph9951/public_html/index.php on line 10
+[17-Nov-2021 18:12:17 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/alph9951/public_html/index.php on line 13
+[17-Nov-2021 18:12:17 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/alph9951/public_html/index.php on line 16
+[17-Nov-2021 18:12:17 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/alph9951/public_html/index.php on line 19
+[17-Nov-2021 18:12:17 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/alph9951/public_html/index.php on line 22
+[17-Nov-2021 18:12:17 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/alph9951/public_html/index.php on line 38
+[17-Nov-2021 18:12:17 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/alph9951/public_html/index.php on line 162
+[17-Nov-2021 18:12:17 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/alph9951/public_html/index.php on line 236
+[17-Nov-2021 18:12:17 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/alph9951/public_html/index.php on line 270
+[17-Nov-2021 18:18:09 America/Fortaleza] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/alph9951/public_html/config.php on line 12
+[17-Nov-2021 18:18:09 America/Fortaleza] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/alph9951/public_html/config.php on line 12
+[17-Nov-2021 18:18:09 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/alph9951/public_html/index.php on line 5
+[17-Nov-2021 18:18:09 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/alph9951/public_html/index.php on line 6
+[17-Nov-2021 18:18:09 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/alph9951/public_html/index.php on line 9
+[17-Nov-2021 18:18:09 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/alph9951/public_html/index.php on line 10
+[17-Nov-2021 18:18:09 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/alph9951/public_html/index.php on line 13
+[17-Nov-2021 18:18:09 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/alph9951/public_html/index.php on line 16
+[17-Nov-2021 18:18:09 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/alph9951/public_html/index.php on line 19
+[17-Nov-2021 18:18:09 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/alph9951/public_html/index.php on line 22
+[17-Nov-2021 18:18:09 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/alph9951/public_html/index.php on line 38
+[17-Nov-2021 18:18:09 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/alph9951/public_html/index.php on line 162
+[17-Nov-2021 18:18:09 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/alph9951/public_html/index.php on line 236
+[17-Nov-2021 18:18:09 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/alph9951/public_html/index.php on line 270
+[17-Nov-2021 18:19:16 America/Fortaleza] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/alph9951/public_html/config.php on line 12
+[17-Nov-2021 18:19:16 America/Fortaleza] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/alph9951/public_html/config.php on line 12
+[17-Nov-2021 18:19:16 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/alph9951/public_html/index.php on line 5
+[17-Nov-2021 18:19:16 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/alph9951/public_html/index.php on line 6
+[17-Nov-2021 18:19:16 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/alph9951/public_html/index.php on line 9
+[17-Nov-2021 18:19:16 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/alph9951/public_html/index.php on line 10
+[17-Nov-2021 18:19:16 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/alph9951/public_html/index.php on line 13
+[17-Nov-2021 18:19:16 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/alph9951/public_html/index.php on line 16
+[17-Nov-2021 18:19:16 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/alph9951/public_html/index.php on line 19
+[17-Nov-2021 18:19:16 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/alph9951/public_html/index.php on line 22
+[17-Nov-2021 18:19:16 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/alph9951/public_html/index.php on line 38
+[17-Nov-2021 18:19:16 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/alph9951/public_html/index.php on line 162
+[17-Nov-2021 18:19:16 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/alph9951/public_html/index.php on line 236
+[17-Nov-2021 18:19:16 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/alph9951/public_html/index.php on line 270
+[17-Nov-2021 18:19:19 America/Fortaleza] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/alph9951/public_html/config.php on line 12
+[17-Nov-2021 18:19:19 America/Fortaleza] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/alph9951/public_html/config.php on line 12
+[17-Nov-2021 18:19:19 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/alph9951/public_html/index.php on line 5
+[17-Nov-2021 18:19:19 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/alph9951/public_html/index.php on line 6
+[17-Nov-2021 18:19:19 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/alph9951/public_html/index.php on line 9
+[17-Nov-2021 18:19:19 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/alph9951/public_html/index.php on line 10
+[17-Nov-2021 18:19:19 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/alph9951/public_html/index.php on line 13
+[17-Nov-2021 18:19:19 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/alph9951/public_html/index.php on line 16
+[17-Nov-2021 18:19:19 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/alph9951/public_html/index.php on line 19
+[17-Nov-2021 18:19:19 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/alph9951/public_html/index.php on line 22
+[17-Nov-2021 18:19:20 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/alph9951/public_html/index.php on line 38
+[17-Nov-2021 18:19:20 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/alph9951/public_html/index.php on line 162
+[17-Nov-2021 18:19:20 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/alph9951/public_html/index.php on line 236
+[17-Nov-2021 18:19:20 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/alph9951/public_html/index.php on line 270
+[17-Nov-2021 18:26:36 America/Fortaleza] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/alph9951/public_html/config.php on line 12
+[17-Nov-2021 18:26:36 America/Fortaleza] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/alph9951/public_html/config.php on line 12
+[17-Nov-2021 18:26:36 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/alph9951/public_html/index.php on line 5
+[17-Nov-2021 18:26:36 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/alph9951/public_html/index.php on line 6
+[17-Nov-2021 18:26:36 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/alph9951/public_html/index.php on line 9
+[17-Nov-2021 18:26:36 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/alph9951/public_html/index.php on line 10
+[17-Nov-2021 18:26:36 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/alph9951/public_html/index.php on line 13
+[17-Nov-2021 18:26:36 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/alph9951/public_html/index.php on line 16
+[17-Nov-2021 18:26:36 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/alph9951/public_html/index.php on line 19
+[17-Nov-2021 18:26:36 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/alph9951/public_html/index.php on line 22
+[17-Nov-2021 18:26:37 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/alph9951/public_html/index.php on line 38
+[17-Nov-2021 18:26:37 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/alph9951/public_html/index.php on line 162
+[17-Nov-2021 18:26:37 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/alph9951/public_html/index.php on line 236
+[17-Nov-2021 18:26:37 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/alph9951/public_html/index.php on line 270
+[17-Nov-2021 18:26:39 America/Fortaleza] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/alph9951/public_html/config.php on line 12
+[17-Nov-2021 18:26:39 America/Fortaleza] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/alph9951/public_html/config.php on line 12
+[17-Nov-2021 18:26:39 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/alph9951/public_html/index.php on line 5
+[17-Nov-2021 18:26:39 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/alph9951/public_html/index.php on line 6
+[17-Nov-2021 18:26:39 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/alph9951/public_html/index.php on line 9
+[17-Nov-2021 18:26:39 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/alph9951/public_html/index.php on line 10
+[17-Nov-2021 18:26:39 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/alph9951/public_html/index.php on line 13
+[17-Nov-2021 18:26:39 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/alph9951/public_html/index.php on line 16
+[17-Nov-2021 18:26:39 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/alph9951/public_html/index.php on line 19
+[17-Nov-2021 18:26:39 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/alph9951/public_html/index.php on line 22
+[17-Nov-2021 18:26:40 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/alph9951/public_html/index.php on line 38
+[17-Nov-2021 18:26:40 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/alph9951/public_html/index.php on line 162
+[17-Nov-2021 18:26:40 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/alph9951/public_html/index.php on line 236
+[17-Nov-2021 18:26:40 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/alph9951/public_html/index.php on line 270
+[17-Nov-2021 21:45:54 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/alph9951/public_html/header.php:1) in /home2/alph9951/public_html/solicita.php on line 7
+[17-Nov-2021 22:15:23 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/alph9951/public_html/header.php:1) in /home2/alph9951/public_html/solicita.php on line 7
